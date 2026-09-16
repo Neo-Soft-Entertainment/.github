@@ -59,6 +59,15 @@ We follow a five-phase production loop for every build, ours or a client's:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+## GitHub Stats
+
+<div align="center">
+
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-3-1E90FF?style=for-the-badge)](https://github.com/orgs/Neo-Soft-Entertainment/repositories)
+[![Followers](https://img.shields.io/github/followers/Neo-Soft-Entertainment?style=for-the-badge&label=Followers&color=1E90FF)](https://github.com/Neo-Soft-Entertainment)
+
+</div>
+
 ## Get in Touch
 
 We're always open to talking about game development, Unreal Engine systems, interactive web experiences, or production tooling.
