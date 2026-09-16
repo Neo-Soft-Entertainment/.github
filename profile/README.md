@@ -66,6 +66,10 @@ We follow a five-phase production loop for every build, ours or a client's:
 [![Public Repos](https://img.shields.io/badge/Public%20Repos-3-1E90FF?style=for-the-badge)](https://github.com/orgs/Neo-Soft-Entertainment/repositories)
 [![Followers](https://img.shields.io/github/followers/Neo-Soft-Entertainment?style=for-the-badge&label=Followers&color=1E90FF)](https://github.com/Neo-Soft-Entertainment)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Neo-Soft-Entertainment&style=for-the-badge&color=1E90FF&label=PROFILE+VIEWS)
+
+[![Website Repo](https://github-readme-stats.vercel.app/api/pin/?username=Neo-Soft-Entertainment&repo=neosoftentertainment.com.br&theme=tokyonight&hide_border=true)](https://github.com/Neo-Soft-Entertainment/neosoftentertainment.com.br)
+
 </div>
 
 ## Get in Touch
