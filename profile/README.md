@@ -68,7 +68,11 @@ We follow a five-phase production loop for every build, ours or a client's:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Neo-Soft-Entertainment&style=for-the-badge&color=1E90FF&label=PROFILE+VIEWS)
 
-[![Website Repo](https://github-readme-stats.vercel.app/api/pin/?username=Neo-Soft-Entertainment&repo=neosoftentertainment.com.br&theme=tokyonight&hide_border=true)](https://github.com/Neo-Soft-Entertainment/neosoftentertainment.com.br)
+**[Website Repo](https://github.com/Neo-Soft-Entertainment/neosoftentertainment.com.br)**
+
+[![Stars](https://img.shields.io/github/stars/Neo-Soft-Entertainment/neosoftentertainment.com.br?style=for-the-badge&color=1E90FF)](https://github.com/Neo-Soft-Entertainment/neosoftentertainment.com.br/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/Neo-Soft-Entertainment/neosoftentertainment.com.br?style=for-the-badge&color=1E90FF)](https://github.com/Neo-Soft-Entertainment/neosoftentertainment.com.br/commits)
+[![Top Language](https://img.shields.io/github/languages/top/Neo-Soft-Entertainment/neosoftentertainment.com.br?style=for-the-badge&color=1E90FF)](https://github.com/Neo-Soft-Entertainment/neosoftentertainment.com.br)
 
 </div>
 
